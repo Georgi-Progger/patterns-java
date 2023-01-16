@@ -1,4 +1,4 @@
-package net.georgihugaev.patterns.AbstractFactoryMethod;
+package net.georgihugaev.patterns.FactoryPatterns;
 
 class AppRun {
     public static void main(String[] args) {

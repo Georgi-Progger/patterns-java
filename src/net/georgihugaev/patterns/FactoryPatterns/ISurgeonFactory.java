@@ -1,4 +1,4 @@
-package net.georgihugaev.patterns.AbstractFactoryMethod;
+package net.georgihugaev.patterns.FactoryPatterns;
 
 public interface ISurgeonFactory {
     ISurgeon create();
